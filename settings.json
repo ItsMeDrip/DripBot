@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PUT_YOUR_IP_HERE",
-    "port": 11111,
+    "ip": "DevXDarshXRohit.aternos.me:63478",
+    "port": 63478,
     "version": "",
     "try-creative": false
   },
