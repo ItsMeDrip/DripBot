@@ -11,7 +11,7 @@ const config = {
   host: 'DevXDarshXRohit.aternos.me',  // Your Aternos server address
   port: 63478,                          // Your Aternos server port
   username: 'DripBot',                  // Bot's username (offline/cracked server)
-  version: '26.1.2',                    // Change to your server's Minecraft version
+  version: '1.20.1',                    // Change to your server's Minecraft version
   reconnectDelay: 30000,                // Wait 30 seconds before reconnecting (ms)
 };
 // ──────────────────────────────────────────────
