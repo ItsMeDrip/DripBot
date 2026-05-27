@@ -8,11 +8,10 @@ const express = require('express');
 
 // ─── EDIT THESE ───────────────────────────────
 const config = {
-  host: 'DevXDarshXRohit.aternos.me',  // Your Aternos server address
-  port: 63478,                          // Your Aternos server port
-  username: 'DripBot',                  // Bot's username (offline/cracked server)
-  version: '1.21.2',                    // Your server's Minecraft version
-  reconnectDelay: 30000,                // Wait 30 seconds before reconnecting (ms)
+  host: 'DevXDarshXRohit.aternos.me',
+  port: 63478,
+  username: 'DripBot',
+  reconnectDelay: 30000,
 };
 // ──────────────────────────────────────────────
 
